@@ -1,2 +1,3 @@
 # Sodoku-Solver-WebApp
-Sodoku Solver
+Sodoku Solver created in python
+
